@@ -31,6 +31,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
 
 ## LeetHub v2 Sync Checklist
