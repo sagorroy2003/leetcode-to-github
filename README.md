@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sagorroy2003/leetcode-to-github/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
