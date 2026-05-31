@@ -1,23 +1,35 @@
-#include <queue>
-
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        if (root == nullptr) return nullptr;
+        if(root == NULL){
+            return NULL;
+        }
 
         std::queue<TreeNode*> q;
+
         q.push(root);
 
-        while (!q.empty()) {
-            TreeNode* current = q.front();
-            q.pop();
+        while(!q.empty()){
+            TreeNode* curr = q.front();// queue er first ta nilam
+            q.pop();// queue theke bar kore dibo... then oita k use korbo
 
-            // Swap the current node's children
-            std::swap(current->left, current->right);
+            std::swap(curr->left, curr->right);
 
-            // Push the non-null children into the queue for later processing
-            if (current->left != nullptr) q.push(current->left);
-            if (current->right != nullptr) q.push(current->right);
+            if(curr->left != NULL) q.push(curr->left);
+            if(curr->right != NULL)q.push(curr->right);
+
+
         }
 
         return root;
