@@ -15,6 +15,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sagorroy2003/leetcode-to-github/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
 
 ## LeetHub v2 Sync Checklist
