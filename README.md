@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/2089-find-target-indices-after-sorting-array) |
