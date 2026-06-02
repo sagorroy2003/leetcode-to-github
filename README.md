@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -83,6 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/2089-find-target-indices-after-sorting-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ## LeetHub v2 Sync Checklist
