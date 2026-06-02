@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
