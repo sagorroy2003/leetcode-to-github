@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
 
 ## LeetHub v2 Sync Checklist
