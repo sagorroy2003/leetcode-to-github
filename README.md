@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sagorroy2003/leetcode-to-github/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
