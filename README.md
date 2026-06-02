@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sagorroy2003/leetcode-to-github/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer) |
