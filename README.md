@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0202-happy-number) |
 ## Interactive
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0242-valid-anagram) |
 ## Binary Search Tree
 |  |
