@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1021-remove-outermost-parentheses) |
@@ -142,6 +143,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
 
 ## LeetHub v2 Sync Checklist
