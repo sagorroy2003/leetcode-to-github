@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0198-house-robber) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0704-binary-search) |
+| [1046-last-stone-weight](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -149,6 +150,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0155-min-stack) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
 
 ## LeetHub v2 Sync Checklist
