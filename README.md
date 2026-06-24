@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0198-house-robber) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0929-unique-email-addresses) |
 | [1046-last-stone-weight](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sagorroy2003/leetcode-to-github/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
