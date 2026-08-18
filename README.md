@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0746-min-cost-climbing-stairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagorroy2003/leetcode-to-github/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0242-valid-anagram) |
 | [0929-unique-email-addresses](https://github.com/sagorroy2003/leetcode-to-github/tree/master/0929-unique-email-addresses) |
 ## Binary Search Tree
